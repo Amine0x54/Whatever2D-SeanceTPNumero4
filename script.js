@@ -1,14 +1,14 @@
 const gamesList = [
 	{
-		title: "Tekken",
-		year: 1994,
-		imageUrl: "https://cdn.dashfight.com/bcf6a9046a9ea4c1070d4aedb2981103c978a704.png",
+		title: "Uncharted2",
+		year: 2009,
+		imageUrl: "https://wallpapercave.com/wp/wp1826978.jpg",
 		id: 1,
 	},
 	{
-		title: "Minecraft",
-		year: 2009,
-		imageUrl: "https://m.media-amazon.com/images/I/61smNbXSW1L._AC_UF1000,1000_QL80_.jpg",
+		title: "Super Smash Bros Ultimate",
+		year: 2018,
+		imageUrl: "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/en_CA/games/switch/s/super-smash-bros-ultimate-switch/hero",
 		id: 2,
 	},
 	{
@@ -18,21 +18,21 @@ const gamesList = [
 		id: 3,
 	},
 	{
-		title: "Street Fighter V",
-		year: 2015,
-		imageUrl: "https://gaming-cdn.com/images/products/671/orig/street-fighter-v-pc-jeu-steam-cover.jpg?v=1662539255",
+		title: "Marvel Rivals",
+		year: 2024,
+		imageUrl: "https://4kwallpapers.com/images/wallpapers/marvel-rivals-1920x1080-16086.jpeg",
 		id: 4,
 	},
 	{
-		title: "Half Life 2",
+		title: "Dragon Quest VI",
 		year: 2004,
-		imageUrl: "https://gaming-cdn.com/images/products/2284/orig/half-life-2-pc-mac-game-steam-cover.jpg?v=1650555068",
+		imageUrl: "https://m.media-amazon.com/images/I/91JUgxOqpkL.jpg",
 		id: 5,
 	},
 	{
-		title: "Skyrim",
-		year: 2011,
-		imageUrl: "https://gaming-cdn.com/images/products/146/orig/the-elder-scrolls-v-skyrim-pc-jeu-steam-europe-cover.jpg?v=1661270991",
+		title: "Metroid Dread",
+		year: 2021,
+		imageUrl: "https://sirus.b-cdn.net/wp-content/uploads/2021/10/Metroid-Dread-Gallery-6.jpg",
 		id: 6,
 	},
   ];
