@@ -97,7 +97,6 @@ function writeDom() {
 }
 writeDom()
 
-
 editButtons = document.querySelectorAll(".edit")
 editButtons.forEach((btn) => {
 	btn.addEventListener("click", (e) => {
